@@ -1,0 +1,233 @@
+Tu
+v7
+r0
+t308287445.824397
+cCheck dependencies
+cProcessInfoPlistFile /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Info.plist u-Info.plist
+cCpResource build/Debug/u.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/scottjacksonx/Documents/dev/git/u/English.lproj/MyDocument.xib
+cCompileXIB /Users/scottjacksonx/Documents/dev/git/u/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/Kp/KpHn0cygEBqp3Dbzc90q+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/u_Prefix-czwzwqoqcamzmpgfwboivqgdraka/u_Prefix.pch.gch u_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/u.build/Debug/u.build/Objects-normal/x86_64/MyDocument.o /Users/scottjacksonx/Documents/dev/git/u/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/u.build/Debug/u.build/Objects-normal/x86_64/main.o /Users/scottjacksonx/Documents/dev/git/u/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/MacOS/u normal x86_64
+cTouch /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/scottjacksonx/Documents/dev/git/u/English.lproj/Credits.rtf
+c000000004CAFDFE700000000000001B4
+t1286594535
+s436
+
+N/Users/scottjacksonx/Documents/dev/git/u/English.lproj/InfoPlist.strings
+c000000004CAFDFE7000000000000002D
+t1286594535
+s45
+
+N/Users/scottjacksonx/Documents/dev/git/u/English.lproj/MainMenu.xib
+c000000004CAFE04B000000000002DF3D
+t1286594635
+s188221
+
+N/Users/scottjacksonx/Documents/dev/git/u/English.lproj/MyDocument.xib
+c000000004CAFDFE70000000000002935
+t1286594535
+s10549
+
+N/Users/scottjacksonx/Documents/dev/git/u/MyDocument.h
+c000000004CAFDFE700000000000000C4
+t1286594535
+s196
+i<Cocoa/Cocoa.h>
+
+N/Users/scottjacksonx/Documents/dev/git/u/MyDocument.m
+c000000004CAFDFE700000000000009DE
+t1286594535
+s2526
+i"MyDocument.h"
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app
+t1286594645
+s102
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Info.plist
+t1286594639
+s1292
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/MacOS/u
+t1286594645
+s10880
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/PkgInfo
+t1286594639
+s8
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj/Credits.rtf
+t1286594639
+s436
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1286594639
+s92
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj/MainMenu.nib
+t1286594640
+s38001
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj/MyDocument.nib
+t1286594639
+s3544
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/Objects-normal/x86_64/MyDocument.o
+t1286594644
+s19332
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/Objects-normal/x86_64/main.o
+t1286594644
+s4992
+
+N/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/Objects-normal/x86_64/u.LinkFileList
+c000000004CAFE04F00000000000000CA
+t1286594639
+s202
+
+N/Users/scottjacksonx/Documents/dev/git/u/main.m
+c000000004CAFDFE700000000000000F0
+t1286594535
+s240
+i<Cocoa/Cocoa.h>
+
+N/Users/scottjacksonx/Documents/dev/git/u/u_Prefix.pch
+c000000004CAFDFE70000000000000085
+t1286594535
+s133
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Kp/KpHn0cygEBqp3Dbzc90q+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/u_Prefix-czwzwqoqcamzmpgfwboivqgdraka/u_Prefix.pch.gch
+t1286594643
+s54265616
+
+Nu-Info.plist
+c000000004CAFDFE700000000000005CA
+t1286594535
+s1482
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308287439#308287439#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/u.build/Debug/u.build/Objects-normal/x86_64/MyDocument.o /Users/scottjacksonx/Documents/dev/git/u/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308287444.037557
+e308287444.304965
+r1
+xCompileC
+xbuild/u.build/Debug/u.build/Objects-normal/x86_64/MyDocument.o
+x/Users/scottjacksonx/Documents/dev/git/u/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/scottjacksonx/Documents/dev/git/u/MyDocument.m308287444#308287444#0(0"0(0#0#53"/Users/scottjacksonx/Documents/dev/git/u/MyDocument.m4300911832#1364"    cd /Users/scottjacksonx/Documents/dev/git/u    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-generated-files.hmap -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-own-target-headers.hmap -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-all-target-headers.hmap -iquote /Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-project-headers.hmap -F/Users/scottjacksonx/Documents/dev/git/u/build/Debug -I/Users/scottjacksonx/Documents/dev/git/u/build/Debug/include -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/DerivedSources/x86_64 -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/DerivedSources -include /var/folders/Kp/KpHn0cygEBqp3Dbzc90q+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/u_Prefix-czwzwqoqcamzmpgfwboivqgdraka/u_Prefix.pch -c /Users/scottjacksonx/Documents/dev/git/u/MyDocument.m -o /Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/Objects-normal/x86_64/MyDocument.o0#
+
+CCompileC build/u.build/Debug/u.build/Objects-normal/x86_64/main.o /Users/scottjacksonx/Documents/dev/git/u/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308287444.038537
+e308287444.296108
+r1
+xCompileC
+xbuild/u.build/Debug/u.build/Objects-normal/x86_64/main.o
+x/Users/scottjacksonx/Documents/dev/git/u/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/scottjacksonx/Documents/dev/git/u/main.m308287444#308287444#0(0"0(0#0#47"/Users/scottjacksonx/Documents/dev/git/u/main.m4300911832#1352"    cd /Users/scottjacksonx/Documents/dev/git/u    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-generated-files.hmap -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-own-target-headers.hmap -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-all-target-headers.hmap -iquote /Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-project-headers.hmap -F/Users/scottjacksonx/Documents/dev/git/u/build/Debug -I/Users/scottjacksonx/Documents/dev/git/u/build/Debug/include -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/DerivedSources/x86_64 -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/DerivedSources -include /var/folders/Kp/KpHn0cygEBqp3Dbzc90q+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/u_Prefix-czwzwqoqcamzmpgfwboivqgdraka/u_Prefix.pch -c /Users/scottjacksonx/Documents/dev/git/u/main.m -o /Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/scottjacksonx/Documents/dev/git/u/English.lproj/MainMenu.xib
+s308287439.742627
+e308287440.152110
+r1
+xCompileXIB
+x/Users/scottjacksonx/Documents/dev/git/u/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib308287439#308287440#0(0"0(0#0#67"/Users/scottjacksonx/Documents/dev/git/u/English.lproj/MainMenu.xib4300911832#327"    cd /Users/scottjacksonx/Documents/dev/git/u    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj/MainMenu.nib /Users/scottjacksonx/Documents/dev/git/u/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/scottjacksonx/Documents/dev/git/u/English.lproj/MyDocument.xib
+s308287439.517263
+e308287439.742532
+r1
+xCompileXIB
+x/Users/scottjacksonx/Documents/dev/git/u/English.lproj/MyDocument.xib
+lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib308287439#308287439#0(0"0(0#0#69"/Users/scottjacksonx/Documents/dev/git/u/English.lproj/MyDocument.xib4300911832#331"    cd /Users/scottjacksonx/Documents/dev/git/u    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj/MyDocument.nib /Users/scottjacksonx/Documents/dev/git/u/English.lproj/MyDocument.xib0#
+
+CCopyStringsFile /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s308287439.451840
+e308287439.855919
+r1
+xCopyStringsFile
+x/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings308287439#308287439#0(0"0(0#0#72"/Users/scottjacksonx/Documents/dev/git/u/English.lproj/InfoPlist.strings4300911832#363"    cd /Users/scottjacksonx/Documents/dev/git/u    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/u.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s308287439.434213
+e308287439.517167
+r1
+xCpResource
+xbuild/Debug/u.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf308287439#308287439#0(0"0(0#0#66"/Users/scottjacksonx/Documents/dev/git/u/English.lproj/Credits.rtf4300911832#355"    cd /Users/scottjacksonx/Documents/dev/git/u    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/scottjacksonx/Documents/dev/git/u/English.lproj/Credits.rtf /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Resources/English.lproj0#
+
+CLd /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/MacOS/u normal x86_64
+s308287444.305058
+e308287445.805453
+r1
+xLd
+x/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/MacOS/u
+xnormal
+xx86_64
+lSLF07#2@80"Link /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/MacOS/u308287444#308287445#0(0"0(0#0#0"4300911832#522"    cd /Users/scottjacksonx/Documents/dev/git/u    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/scottjacksonx/Documents/dev/git/u/build/Debug -F/Users/scottjacksonx/Documents/dev/git/u/build/Debug -filelist /Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/Objects-normal/x86_64/u.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/MacOS/u0#
+
+CProcessInfoPlistFile /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Info.plist u-Info.plist
+s308287439.384045
+e308287439.434093
+r1
+xProcessInfoPlistFile
+x/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Info.plist
+xu-Info.plist
+lSLF07#2@20"Process u-Info.plist308287439#308287439#0(0"0(0#0#53"/Users/scottjacksonx/Documents/dev/git/u/u-Info.plist32932993188560964#298"    cd /Users/scottjacksonx/Documents/dev/git/u    builtin-infoPlistUtility u-Info.plist -genpkginfo /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Kp/KpHn0cygEBqp3Dbzc90q+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/u_Prefix-czwzwqoqcamzmpgfwboivqgdraka/u_Prefix.pch.gch u_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308287440.152285
+e308287444.037341
+r1
+xProcessPCH
+x/var/folders/Kp/KpHn0cygEBqp3Dbzc90q+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/u_Prefix-czwzwqoqcamzmpgfwboivqgdraka/u_Prefix.pch.gch
+xu_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@23"Precompile u_Prefix.pch308287440#308287444#0(0"0(0#0#53"/Users/scottjacksonx/Documents/dev/git/u/u_Prefix.pch4300911832#1262"    cd /Users/scottjacksonx/Documents/dev/git/u    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-generated-files.hmap -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-own-target-headers.hmap -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-all-target-headers.hmap -iquote /Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/u-project-headers.hmap -F/Users/scottjacksonx/Documents/dev/git/u/build/Debug -I/Users/scottjacksonx/Documents/dev/git/u/build/Debug/include -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/DerivedSources/x86_64 -I/Users/scottjacksonx/Documents/dev/git/u/build/u.build/Debug/u.build/DerivedSources -c /Users/scottjacksonx/Documents/dev/git/u/u_Prefix.pch -o /var/folders/Kp/KpHn0cygEBqp3Dbzc90q+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/u_Prefix-czwzwqoqcamzmpgfwboivqgdraka/u_Prefix.pch.gch0#
+
+CTouch /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app
+s308287445.805652
+e308287445.824229
+r1
+xTouch
+x/Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app
+lSLF07#2@64"Touch /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app308287445#308287445#0(0"0(0#0#0"4300911832#129"    cd /Users/scottjacksonx/Documents/dev/git/u    /usr/bin/touch -c /Users/scottjacksonx/Documents/dev/git/u/build/Debug/u.app0#
+
